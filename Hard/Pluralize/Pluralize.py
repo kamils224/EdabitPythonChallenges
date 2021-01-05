@@ -2,7 +2,7 @@ from collections import Counter
 from typing import List, Set
 
 
-# task: https://edabit.com/challenge/LR98GCwLGYPSv8Afb
+# Task: https://edabit.com/challenge/LR98GCwLGYPSv8Afb
 
 
 def pluralize(items: List[str]) -> Set[str]:

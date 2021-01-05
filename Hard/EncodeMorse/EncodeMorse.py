@@ -1,4 +1,4 @@
-# tasks: https://edabit.com/challenge/5bYXQfpyoithnQisa
+# Task: https://edabit.com/challenge/5bYXQfpyoithnQisa
 
 
 char_to_dots = {
