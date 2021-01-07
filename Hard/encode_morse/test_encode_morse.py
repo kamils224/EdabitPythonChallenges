@@ -1,6 +1,5 @@
 import unittest
-from EncodeMorse import encode_morse
-
+from encode_morse import encode_morse
 
 class TestEncodeMorse(unittest.TestCase):
     def test_encode_morse(self):

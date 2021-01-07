@@ -1,5 +1,5 @@
 import unittest
-from Interview import interview
+from interview import interview
 
 
 class TestEncodeMorse(unittest.TestCase):

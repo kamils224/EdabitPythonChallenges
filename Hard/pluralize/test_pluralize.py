@@ -1,5 +1,5 @@
 import unittest
-from Pluralize import pluralize
+from pluralize import pluralize
 
 
 class TestPluralize(unittest.TestCase):

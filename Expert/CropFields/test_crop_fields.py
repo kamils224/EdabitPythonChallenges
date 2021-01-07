@@ -1,5 +1,5 @@
 import unittest
-from CropFields import crop_hydrated
+from crop_fields import crop_hydrated
 
 class TestCropFields(unittest.TestCase):
 
